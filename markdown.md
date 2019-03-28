@@ -6,3 +6,7 @@ This is __a__ _paragraph_.
 
 - Step 1
 - Step 2
+
+[Link](https://aldaroncs.github.io)
+
+<image width="50%" src="https://aldaroncs.github.io/light_background.png"></image>
